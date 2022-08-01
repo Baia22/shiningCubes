@@ -1,0 +1,15 @@
+.cube {
+    display: flex;
+    flex-wrap: wrap;
+    width: 350px;
+    height:350px;
+    background-color: black;
+    padding: 50px;
+}
+.littleCubes {
+    margin-right: 5px;
+    margin-bottom: 5px;
+    width:10px;
+    height:10px;
+    background-color: white;
+}
